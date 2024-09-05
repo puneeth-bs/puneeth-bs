@@ -1,4 +1,4 @@
-### Hi there!! its BS Puneeth 👋
+### Hi there!! its B S Puneeth 👋
 
 <!--
 **puneeth-bs/puneeth-bs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
