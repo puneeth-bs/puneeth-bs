@@ -11,9 +11,7 @@ I'm a passionate **Software Developer**. I love building scalable backend system
 
 ---
 
-## 🛠️ Languages and Tools
-
-## 🛠️ Favorite Tools
+## 🛠️ Favorite Technologies
 
 <table>
   <tr>
