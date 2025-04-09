@@ -32,6 +32,10 @@ I'm a passionate **Software Developer**. I love building scalable backend system
   </tr>
 </table>
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puneeth-bs&layout=compact&theme=vision-friendly-dark)
+
 
 
 
