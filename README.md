@@ -7,7 +7,7 @@ I'm a passionate **Software Developer**. I love building scalable backend system
 - 🔭 Currently pursuing my Master's at **Northeastern University**, Boston.
 - 💻 Previously a **Software Engineer at HPE**.
 - 🌱 Always learning and exploring new technologies and project ideas.
-- Love reading non-fiction books on various topics.
+- 📚 Avid reader of non-fiction, always curious about the world and how things work.
 
 ---
 
