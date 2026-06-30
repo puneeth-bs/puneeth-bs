@@ -89,10 +89,4 @@
   <img src="https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge&logo=java&logoColor=black" />
 </p>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A96A5,50:0a2a2a,100:000000&height=110&section=footer&text=Open%20to%20AI%20Engineer%20%2F%20Applied%20AI%20Roles&fontSize=15&fontColor=8fd6de&fontAlignY=65" />
-
 </div>
