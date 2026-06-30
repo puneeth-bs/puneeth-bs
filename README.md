@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=2A96A5&center=true&vCenter=true&width=650&lines=LLMs+%C2%B7+RAG+Pipelines+%C2%B7+Agentic+Workflows;Full-Stack+Java%2FPython+%C2%B7+Cloud+%C2%B7+Distributed+Systems;AI+Engineer+%40+Atlas+SP+Partners+%7C+MS+CS+%40+NEU)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://linkedin.com/in/b-s-puneeth"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/b-s-puneeth"><img src="https://img.shields.io/badge/LinkedIn-0a2a2a?style=for-the-badge&logo=linkedin&logoColor=2A96A5" /></a>
   <a href="mailto:boyapatisanjeeva.p@northeastern.edu"><img src="https://img.shields.io/badge/Email-0a2a2a?style=for-the-badge&logo=gmail&logoColor=2A96A5" /></a>
   <a href="https://github.com/puneeth-bs"><img src="https://img.shields.io/badge/GitHub-0a2a2a?style=for-the-badge&logo=github&logoColor=2A96A5" /></a>
 </p>
