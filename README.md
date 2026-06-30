@@ -16,16 +16,30 @@
 
 ## 🤖 About Me
 
-```python
-class AIEngineer:
-    name      = "Puneeth Boyapati Sanjeeva"
-    role      = "AI Engineer"
-    location  = "Raleigh, NC 🇺🇸"
-    education = "MS Computer Science @ Northeastern University"
-    ai_stack  = ["LLMs", "RAG Pipelines", "Agentic Workflows", "LangChain", "Vector DBs"]
-    backend   = ["Java", "Spring Boot", "Python", "FastAPI", "Node.js", "Kafka"]
-    infra     = ["Kubernetes", "Docker", "Terraform", "AWS", "Azure"]
-    motto     = "Not just to work — but to hold up under real-world traffic."
+```bash
+$ curl -X POST https://api.puneeth.dev/v1/engineer \
+  -H "Content-Type: application/json" \
+  -d '{"query": "who are you?"}'
+```
+
+```json
+{
+  "model"     : "puneeth-boyapati-sanjeeva-v1",
+  "role"      : "AI Engineer",
+  "location"  : "Raleigh, NC 🇺🇸",
+  "education" : "MS Computer Science @ Northeastern University",
+
+  "core_stack": {
+    "ai"      : ["LLMs", "RAG Pipelines", "Agentic Workflows", "LangChain", "Vector DBs"],
+    "backend" : ["Java", "Spring Boot", "Python", "FastAPI", "Kafka"],
+    "infra"   : ["Kubernetes", "Docker", "Terraform", "AWS", "Azure"]
+  },
+
+  "currently" : "Building distributed RBAC + AI systems @ Atlas SP Partners",
+  "status"    : "open_to_opportunities",
+
+  "output"    : "Not just to work — but to hold up under real-world traffic."
+}
 ```
 
 ---
@@ -84,5 +98,11 @@ class AIEngineer:
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge&logo=java&logoColor=black" />
 </p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A96A5,50:0a2a2a,100:000000&height=110&section=footer&text=Open%20to%20AI%20Engineer%20%2F%20Applied%20AI%20Roles&fontSize=15&fontColor=8fd6de&fontAlignY=65" />
 
 </div>
